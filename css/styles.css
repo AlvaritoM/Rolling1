@@ -1,0 +1,16 @@
+h1 {
+  font-size: 5em;
+  text-align: center;
+  color: lightblue;
+  background-color: darkblue;
+  margin-bottom: 1px;
+}
+
+img {
+  position: relative;
+  border-radius: 50%;
+  width: 50%;
+  display: flex;
+  width: 250px;
+  height: 250px;
+}
